@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "global-ticket-342019",
+  "private_key_id": "49bc652192eb9f24dabae435fdf0bf86953661f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPk5O9SBUwodsG\nu3GJqCIkOuun5sbrSFEE0EyBFIdWSvkGb3tuEHXxvc4V/YGbPwueU7bpOFGFSRtD\ntkpK+MNzjWkqg0taIUBXGX98WzZ5QJOY7jGI0GLlOQQsbEoUsAsiJItKdwcdC29K\nnvNOosZ5YUD4V62wXgP3iE9cP4adZho/ORc/+/Ju2PECDBaHs4bRljQUKERyh8yB\n8/GfewHcwxRHto/QfRRyyJJuOuJ7mVjo2yOy85gR6/0bSweKX+R0mzjmP1K1SwF+\nT6fZkI5iEicPqjGeSKX7LAZYnnLjz1oMKqctABS6Azp90lP0uX3jX3gJJT/bR7ZJ\nUZDBnxK5AgMBAAECggEADVoFdqgx5ERg+GbM/6aliiX6jTIeVHn0otR2ENjmXwV4\n0/rhCRK5zSG//PaGq3e47l/NljGZDyKFyQ22KfOpRWEkowHzq22FLLRf0SIwViVF\ntIaOD7GFSNi9BR6K4xKd7m5kj6ey/yX1kwRmDu1/NIFxR8brjYeoqcfAzYzQyWk2\nH8hwCDUcxEoP3wdw4gXGF84D6es1zddWzrzTu4h1nXCZ3f0TXPnpH8roixutpnrR\n6FARXBVfbP/NT5xI8CAj5tP4MLl8gapabWJKqoMvb/pSFfzzeNpv5nFvveRqSWz9\n2Ay7XPrjYx1ia/WUS8eFTFKiSTc4fFYwv8Eyb/qhAQKBgQDHICRrfDVsKcCItvml\nu6YzsuqBpvzkDpNYR5UGKi8Jw2toFinS9OYcNf0vQThYYQdPusTTFCqbpqkqA3ev\nesqJ1iSLaCMg7sWPLuiavDsT80yEEbQbFi/hb8qH/nORZDPzoRtWF9jOzoRpeEut\nQmC6nREg7dLDGCTwRE2arVpN+QKBgQC4lb4V0k2dKrPMaJanwyPwh9Nss2WQsbNG\n4Vs5fQ9D/EQQehhOTFdDxmw7VVNTTTAVsSTiKVmhULmqOc27+UaCYM43LVkSM8hL\nMYcZWKa9PCUh8H9B3jtj6rJ+G31ELNMGRE6Ufeyufc8GD0AHpnztCMV7rbBMGNGd\nt8/4zVcawQKBgGHK/Vf0ZmA6mR4LjsvAPr3BLr6B/k0ag26lqSCf8v3+hW9XAy9h\nqulL8o4Un9F3xZl4hlWL3+kVjprdnRgHXBUZoFT+zdHMsiXByebEbtc7c+agsy1i\nVh2HQ5ZKdwN+jK0oAD7l80qNziXmOHRc1xiPLuxXIF1ELE/7m4lNfb4xAoGBAIGi\nkQRsVZwa4HmfvqcF0tjb263M9HjBhII0RUhDv5PkuLzFswpSbTspQNwO2d14KVwi\ntB+uIMe9lRerTwVEVbO9Xza7P4IcIgBFQXeYnknq0r1aVVWiSR2sOD1++uQFgxM0\np+d75NzLeLjtvu9giv5CGcf5vQZEq/rTnFlFhXZBAoGAaxeOiz9+kOd15Yd86ISJ\nHbVDPfW5ZNUJ7OVzcsdRIMVyvl0CbWEEl+1trSDUF3hy/PuB8Vxl82T3nVgLdFFX\ndYkAO6RoYkdmcNb+anqxdE2HhdFfljwQyVtoF+ceSlVVVe8KhiGGgXOiJtBK9tco\nUTm++zXVkM+laCkcldx4YaE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "parvej@global-ticket-342019.iam.gserviceaccount.com",
+  "client_id": "108142155433084388655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parvej%40global-ticket-342019.iam.gserviceaccount.com"
+}
